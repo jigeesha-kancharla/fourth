@@ -7,3 +7,4 @@ editing as other for m3
 editing as m4
 test for full and fetch
 to check git stash
+to test fetch and pull difference
